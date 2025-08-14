@@ -1,1 +1,0 @@
-# journal_app_backend
